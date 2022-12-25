@@ -1,5 +1,5 @@
-# 💫 About Me:
-Im the founder and developer of the DECINT Blockchain.<br><br>Alongside deveolping the DECINT blockchain I am researching  The effects of low bandwidth and high latency when training AI using distributed data parallelism<br><br>My machine learning framework of choice is JAX but I also have alot of experience with keras<br><br>My goal for the futture is to successfully launch the DECINT blockchain
+# 🤗 About Me:
+Im the founder and developer of the DECINT Blockchain.<br><br>Alongside deveolping the DECINT blockchain I am researching  The effects of low bandwidth and high latency when training AI using distributed data parallelism<br><br>My machine learning framework of choice is JAX but I also have alot of experience with keras<br><br>My goal for the future is to successfully launch the DECINT blockchain
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@ Im the founder and developer of the DECINT Blockchain.<br><br>Alongside deveolpi
 ---
 [![](https://visitcount.itsvg.in/api?id=mayfieldmobster&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
